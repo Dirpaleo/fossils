@@ -6,3 +6,4 @@
 example
 
 exercise
+I added a new line
